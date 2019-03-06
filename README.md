@@ -34,7 +34,7 @@ Collector activity is plenty challenging enough!).
 
 ### Option One: CrystalsCollector Game (Recommended)
 
-![Crystal Collector](Images/1-CrystalCollector.jpg)
+![Crystal Collector](https://github.com/cf512/unit-4-game/blob/master/assets/images/1-CrystalCollector.jpg)
 
 1. [Watch the demo](https://youtu.be/yNI0l2FMeCk).
 
@@ -70,7 +70,7 @@ score counter) will reset to zero.
 
 ### Option Two: Star Wars RPG Game (Challenge)
 
-![Star Wars](Images/2-StarWars.jpg)
+![Star Wars](https://github.com/cf512/unit-4-game/blob/master/assets/images/2-StarWars.jpg))
 
 1. [Watch the demo](https://youtu.be/klN2-ITjRt8).
 
